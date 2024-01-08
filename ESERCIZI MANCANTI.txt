@@ -1,0 +1,20 @@
+02.NUMBER REPRESENTATION
+    ex 3
+    ex 4
+    ex 5 punto c
+    ex 6
+    ex 7
+
+03.BASH
+    tutto
+
+07. Visualization
+    ex 2
+    ex 3
+
+08. LINEAR ALGEBRA
+    tutto
+
+09. ALGORITHMS
+    tutto
+    
